@@ -1,0 +1,2 @@
+"""Avaliador de reclamações."""
+
